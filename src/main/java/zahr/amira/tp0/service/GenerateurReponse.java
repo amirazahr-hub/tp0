@@ -40,7 +40,7 @@ public class GenerateurReponse implements Serializable {
         } else if (minuscules.contains("maquillage")) {
             resultat += "Un teint naturel, un peu de blush et un gloss : simple et chic.";
         } else if (minuscules.contains("triste") || minuscules.contains("stress")) {
-            resultat += "Respire, prends un thé à la menthe et mets ta chanson préférée.";
+            resultat += "Respire, prends un jus et mets ta chanson préférée.";
         } else if (minuscules.contains("examen")) {
             resultat += "Tu as travaillé, tu vas réussir, ma go !";
         } else {
